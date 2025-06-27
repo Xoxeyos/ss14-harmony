@@ -4,7 +4,7 @@
   path:
     path: /Audio/_Harmony/Jukebox/Phoron.ogg
 
-  type: jukebox
+- type: jukebox
   id: NowIambecomedeath
   name: Chris Christodoulou - Now I Am Become Death
   path:
